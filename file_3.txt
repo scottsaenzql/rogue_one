@@ -1,0 +1,3 @@
+new file
+after creation of
+new_feature branch
