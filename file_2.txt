@@ -1,0 +1,3 @@
+file 2
+also has
+three lines
